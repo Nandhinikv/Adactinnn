@@ -8,6 +8,13 @@ public class GreenTec {
  System.out.println("order="+order+ "Type="+type+ "Number="+number);
 
 	}
+	
+	private void greenomr(String name, String type, int number){
+		system.out.println("name="+name+"type"+type"number"+number+);
+	}
+	
+	
+	
 	public static void main(String[] args) {
 		GreenTec va = new GreenTec();
 		va.greenomr(1, "it", 989765);
