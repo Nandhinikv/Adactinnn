@@ -13,7 +13,10 @@ public class GreenTec {
 		system.out.println("name="+name+"type"+type"number"+number+);
 	}
 	
-	
+	private void greenomr(String name){
+		system.out.println("name"+name+);
+	}
+		
 	
 	public static void main(String[] args) {
 		GreenTec va = new GreenTec();
