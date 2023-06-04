@@ -28,7 +28,7 @@ public class GreenTec {
 
 }
 
-	
+	break;
 	public static void main(String[] args) {
 		GreenTec va = new GreenTec();
 		va.greenomr(1, "it", 989765);
