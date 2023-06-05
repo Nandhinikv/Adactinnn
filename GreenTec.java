@@ -17,6 +17,7 @@ public class GreenTec {
 		system.out.println("name"+name+);
 	}
 	system.out.println("number");
+	system.out.println("id");
 		
 		public class Condition {
 	public static void main(String[] args) {
