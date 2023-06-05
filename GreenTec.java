@@ -16,6 +16,7 @@ public class GreenTec {
 	private void greenomr(String name){
 		system.out.println("name"+name+);
 	}
+	system.out.println("number");
 		
 		public class Condition {
 	public static void main(String[] args) {
